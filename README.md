@@ -15,11 +15,14 @@ A mostly faithful Mac OS X Cheetah/Puma recreation, all on XFCE.
 - XFCE 4
 - GNU Stow
 - Plank Reloaded
-- xfce4-appmenu-plugin
+- `xfce4-appmenu-plugin-git`
 - GTK 2/3 support
-- ttf-lucida-fonts
+- `ttf-lucida-fonts`
+- `pcmanfm`
+- `gvfs`
 
 ## Install
 ``stow -t ~ gtk icons plank xfce4``
 
 Also you need to make plank run on startup
+and `pcmanfm --desktop`
