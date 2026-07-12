@@ -20,6 +20,7 @@ A mostly faithful Mac OS X Cheetah/Puma recreation, all on XFCE.
 - `ttf-lucida-fonts`
 - `pcmanfm`
 - `gvfs`
+- `xterm` (default term in dock)
 
 ## Install
 ``stow -t ~ gtk icons plank xfce4``
