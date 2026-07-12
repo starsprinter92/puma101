@@ -21,3 +21,5 @@ A mostly faithful Mac OS X 10.0-10.1 recreation, all on XFCE.
 
 ## Install
 ``stow -t ~ gtk icons plank xfce4``
+
+Also you need to make plank run on startup
