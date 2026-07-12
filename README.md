@@ -24,8 +24,7 @@ A mostly faithful Mac OS X Cheetah/Puma recreation, all on XFCE.
 ## Install
 ``stow -t ~ gtk icons plank xfce4``
 
-Also you need to make plank run on startup
-and `pcmanfm --desktop`
+Add `plank` and `pcmanfm --desktop` to session login processes
 
 # CREDITS
 GTK theme by Saugschmerle Frieder 
