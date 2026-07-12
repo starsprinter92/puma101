@@ -30,7 +30,7 @@ IndicatorColor=255;;255;;255;;255
 #The size of item indicators, in tenths of a percent of IconSize.
 IndicatorSize=8
 #The style of item indicators, styles: circle-glow, circle-color-glow, circle, underline.
-IndicatorStyle=0
+IndicatorStyle=circle
 #The size of the icon-shadow behind every item, in tenths of a percent of IconSize.
 IconShadowSize=9.9999999999999998e-17
 #The height (in percent of IconSize) to bounce an icon when the application sets urgent.
