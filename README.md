@@ -22,7 +22,7 @@ A mostly faithful Mac OS X Cheetah/Puma recreation, all on XFCE.
 - `gvfs`
 
 ## Install
-``stow -t ~ gtk icons plank xfce4``
+``stow -t ~ gtk icons plank xfce4 wallpapers``
 
 Add `plank` and `pcmanfm --desktop` to session login processes
 
