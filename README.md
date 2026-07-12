@@ -18,3 +18,6 @@ A mostly faithful Mac OS X 10.0-10.1 recreation, all on XFCE.
 - xfce4-appmenu-plugin
 - GTK 2/3 support
 - ttf-lucida-fonts
+
+## Install
+``stow -t ~ gtk icons plank xfce4``
