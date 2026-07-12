@@ -1,0 +1,21 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-desktop" version="1.0">
+  <property name="desktop-icons" type="empty">
+    <property name="gravity" type="int" value="2"/>
+    <property name="confirm-sorting" type="bool" value="false"/>
+  </property>
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="678"/>
+    <property name="window-height" type="int" value="553"/>
+  </property>
+  <property name="backdrop" type="empty">
+    <property name="screen0" type="empty">
+      <property name="monitorDP-4.8" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/home/cola/Pictures/Wallpapers/10-0_10-1-6k.jpg"/>
+        </property>
+      </property>
+    </property>
+  </property>
+</channel>
