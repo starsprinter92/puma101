@@ -26,3 +26,12 @@ A mostly faithful Mac OS X Cheetah/Puma recreation, all on XFCE.
 
 Also you need to make plank run on startup
 and `pcmanfm --desktop`
+
+# CREDITS
+GTK theme by Saugschmerle Frieder 
+Icons by Elbullazul
+Plank Theme by Ignacio Zsabo, edited by me
+Fonts by Charles Bigelow and Kris Holmes 
+XFWM theme by Danny Wu and Steven Young
+XFCE4 panel layout by me 
+Mac OS X Puma by Apple Inc.
