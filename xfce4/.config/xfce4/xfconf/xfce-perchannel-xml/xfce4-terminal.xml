@@ -1,0 +1,11 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="color-foreground" type="string" value="#000000000000"/>
+  <property name="color-background" type="string" value="#ffffffffffff"/>
+  <property name="color-palette" type="string" value="rgb(0,0,0);rgb(153,0,0);rgb(0,166,0);rgb(153,153,0);rgb(0,0,178);rgb(178,0,178);rgb(0,166,166);rgb(191,191,191);rgb(102,102,102);rgb(230,0,0);rgb(85,255,85);rgb(230,230,0);rgb(0,0,255);rgb(230,0,230);rgb(85,255,255);rgb(230,230,230)"/>
+  <property name="font-name" type="string" value="Terminus 12"/>
+  <property name="color-selection-use-default" type="bool" value="false"/>
+  <property name="color-selection" type="string" value="#000000000000"/>
+  <property name="color-selection-background" type="string" value="#a5a5cdcdffff"/>
+</channel>
