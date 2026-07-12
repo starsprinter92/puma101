@@ -1,5 +1,5 @@
 # Puma101
-A mostly faithful Mac OS X 10.0-10.1 recreation, all on XFCE.
+A mostly faithful Mac OS X Cheetah/Puma recreation, all on XFCE.
 
 ## Features
 
