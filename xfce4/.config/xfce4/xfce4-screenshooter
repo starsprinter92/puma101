@@ -6,7 +6,7 @@ show_in_folder=true
 screenshot_dir=file:/home/cola
 action=1
 delay=0
-region=2
+region=1
 show_mouse=1
-show_border=1
+show_border=0
 

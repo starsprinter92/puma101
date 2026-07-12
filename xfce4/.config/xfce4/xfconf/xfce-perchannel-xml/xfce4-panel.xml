@@ -5,6 +5,7 @@
     <value type="int" value="1"/>
     <property name="panel-1" type="empty">
       <property name="plugin-ids" type="array">
+        <value type="int" value="11"/>
         <value type="int" value="3"/>
         <value type="int" value="1"/>
         <value type="int" value="2"/>
@@ -15,11 +16,13 @@
         <value type="int" value="6"/>
         <value type="int" value="8"/>
       </property>
-      <property name="icon-size" type="uint" value="20"/>
+      <property name="icon-size" type="uint" value="18"/>
       <property name="position" type="string" value="p=6;x=960;y=12"/>
-      <property name="size" type="uint" value="26"/>
+      <property name="size" type="uint" value="22"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="length" type="double" value="100"/>
+      <property name="background-style" type="uint" value="2"/>
+      <property name="background-image" type="string" value="file:///home/cola/.themes/Devil-Jaguar-fixed-nemo/taskbarbg.png"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -66,9 +69,14 @@
         <value type="string" value="zero-trust-client"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “honeygirl” active: honeygirl (58%)"/>
+        <value type="string" value="networkmanager applet"/>
         <value type="string" value="blueman"/>
         <value type="string" value="wi-fi network connection “honeygirl” active: honeygirl (57%)"/>
       </property>
+    </property>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
     </property>
   </property>
   <property name="configver" type="int" value="2"/>
